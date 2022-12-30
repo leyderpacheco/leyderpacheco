@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @leyderpacheco
-- 👀 I’m interested in front end back end and data
-- 🌱 I’m currently learning front end tech, DX4C technologies
+- 👀 I’m interested in front end back end and data analysis
+- 🌱 I’m currently learning frontend tech, backend java and DX4C technologies
 - 💞️ I’m working in Oracle
 
 <!---
